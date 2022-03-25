@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi there, I am Tom
 
-<!--
-**HeaG123/HeaG123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Developer, Gamer, And Student
+- ⚒️ I'm currently working on a Java game engine with openGL
+- 📖 I will learn AI, DeepLearning and Machine Learning next year
+- 🎸 I love to play guitar
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+[Visual Studio Code][vscode]
+<br />
+[Java][java]
+<br />
+[Node][nodejs]
+<br />
+[Arch Linux][archlinux]
+<br />
+[Python][python]
+<br />
+[IntelliJ IDEA][intelliJ]
+<br />
+[Ditto Clipboard Manager][ditto]
+<br />
+### Contact Me
+Discord - Tøm#5973
+
+<br />
+<br />
+
+[vscode]: https://code.visualstudio.com/
+[java]: https://www.java.com/en/
+[nodejs]: https://nodejs.org/en/
+[archlinux]: https://archlinux.org/
+[python]: https://www.python.org/
+[intelliJ]: https://www.jetbrains.com/idea/
+[ditto]: https://ditto-cp.sourceforge.io/
