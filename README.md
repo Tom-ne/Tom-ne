@@ -26,6 +26,10 @@
 ### Contact Me
 Discord - Tøm#5973
 
+---
+
+<img align="left" alt="HeaG123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HeaG123&show_icons=true&hide_border=true&theme=dark" />
+
 <br />
 <br />
 
