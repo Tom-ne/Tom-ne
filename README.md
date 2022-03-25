@@ -1,5 +1,3 @@
-### Hi there, I am Tom
-
 ## I am a Developer, Gamer, And Student
 - ⚒️ I'm currently working on a Java game engine with openGL
 - 📖 I will learn AI, DeepLearning and Machine Learning next year
@@ -7,7 +5,13 @@
 
 <br />
 
-### Languages and Tools:
+## Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeaG123&repo=Game-Engine)](https://github.com/HeaG123/Game-Engine)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeaG123&repo=notflix)](https://github.com/HeaG123/notflix)
+
+## Languages and Tools:
 
 [Visual Studio Code][vscode]
 <br />
@@ -23,12 +27,15 @@
 <br />
 [Ditto Clipboard Manager][ditto]
 <br />
-### Contact Me
+## Contact Me
 Discord - Tøm#5973
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeaG123)
 
-<img align="left" alt="HeaG123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HeaG123&show_icons=true&hide_border=true&theme=dark" />
+---
+
+<img align="left" alt="HeaG123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HeaG123&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
 
 <br />
 <br />
