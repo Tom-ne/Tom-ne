@@ -27,6 +27,8 @@
 <br />
 [Ditto Clipboard Manager][ditto]
 <br />
+[Git][git]
+<br />
 ## Contact Me
 Discord - Tøm#5973
 
@@ -47,3 +49,4 @@ Discord - Tøm#5973
 [python]: https://www.python.org/
 [intelliJ]: https://www.jetbrains.com/idea/
 [ditto]: https://ditto-cp.sourceforge.io/
+[git]: https://git-scm.com/downloads 
