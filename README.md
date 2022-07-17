@@ -1,6 +1,5 @@
 ## I am a Developer, Gamer, And Student
-- ⚒️ I'm currently working on a Java game engine with openGL
-- 📖 I will learn AI, DeepLearning and Machine Learning next year
+- ⚒️ I'm currently working on learning DevOps
 - 🎸 I love to play guitar
 
 <br />
