@@ -4,12 +4,6 @@
 
 <br />
 
-## Repos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeaG123&repo=Game-Engine)](https://github.com/HeaG123/Game-Engine)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeaG123&repo=notflix)](https://github.com/HeaG123/notflix)
-
 ## Languages and Tools:
 
 [Visual Studio Code][vscode]
@@ -32,11 +26,11 @@
 Discord - Tøm#5973
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeaG123)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-ne)
 
 ---
 
-<img align="left" alt="HeaG123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HeaG123&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
+<img align="left" alt="HeaG123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tom-ne&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
 
 <br />
 <br />
