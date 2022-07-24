@@ -6,7 +6,7 @@
 
 ## Current Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tom-ne&repo=java-music-player&&theme=dracula)](https://github.com/HeaG123/java-music-player)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tom-ne&repo=java-music-player&&theme=dracula)](https://github.com/Tom-ne/java-music-player.git)
 
 ## Languages and Tools:
 
@@ -26,8 +26,8 @@
 <br />
 [Git][git]
 <br />
-## Contact Me
-Discord - Tøm#5973
+## Contact Me On Discord
+![](https://dcbadge.vercel.app/api/shield/837740773482299425?theme=blurple)
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-ne&&theme=dracula)
