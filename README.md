@@ -4,6 +4,10 @@
 
 <br />
 
+## Current Projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tom-ne&repo=java-music-player&&theme=dracula)](https://github.com/HeaG123/java-music-player)
+
 ## Languages and Tools:
 
 [Visual Studio Code][vscode]
@@ -26,7 +30,7 @@
 Discord - Tøm#5973
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-ne)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-ne&&theme=dracula)
 
 ---
 
