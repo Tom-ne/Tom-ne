@@ -10,31 +10,20 @@
 
 ## Languages and Tools:
 
-[Visual Studio Code][vscode]
+**LANGUAGES:** [Python][python], [Java][java], [Node][nodejs]
 <br />
-[Java][java]
+**IDE:** [Visual Studio Code][vscode], [IntelliJ IDEA][intelliJ]
 <br />
-[Node][nodejs]
+**VERSION CONTROL:** [Git][git]
 <br />
-[Arch Linux][archlinux]
+**TERMINAL AND OS:** [Alacritty][alacritty], [Arch Linux][archlinux] 
 <br />
-[Python][python]
-<br />
-[IntelliJ IDEA][intelliJ]
-<br />
-[Ditto Clipboard Manager][ditto]
-<br />
-[Git][git]
-<br />
+
 ## Contact Me On Discord
 ![](https://dcbadge.vercel.app/api/shield/837740773482299425?theme=blurple)
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-ne&&theme=dracula)
-
----
-
-<img align="left" alt="HeaG123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tom-ne&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
 
 <br />
 <br />
@@ -47,3 +36,4 @@
 [intelliJ]: https://www.jetbrains.com/idea/
 [ditto]: https://ditto-cp.sourceforge.io/
 [git]: https://git-scm.com/downloads 
+[alacritty]: https://github.com/alacritty/alacritty
