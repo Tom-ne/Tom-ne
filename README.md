@@ -1,5 +1,5 @@
 ## I am a Developer, Gamer, And Student
-- ⚒️ I'm currently working on learning DevOps
+- ⚒️ I'm currently learning DevOps
 - 🎸 I love to play guitar
 
 <br />
