@@ -1,39 +1,39 @@
-## I am a Developer, Gamer, And Student
-- ⚒️ I'm currently learning DevOps
-- 🎸 I love to play guitar
+[comment]: <> (Made by BETAIDK)
 
-<br />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-## Current Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tom-ne&repo=java-music-player&&theme=dracula)](https://github.com/Tom-ne/java-music-player.git)
+###
 
-## Languages and Tools:
+<h2 align="center">Hi 👋 I'm Tom</h2>
 
-**LANGUAGES:** [Python][python], [Java][java], [Node][nodejs]
-<br />
-**IDE:** [Visual Studio Code][vscode], [IntelliJ IDEA][intelliJ]
-<br />
-**VERSION CONTROL:** [Git][git]
-<br />
-**TERMINAL AND OS:** [Alacritty][alacritty], [Arch Linux][archlinux] 
-<br />
+###
 
-## Contact Me On Discord
-![](https://dcbadge.vercel.app/api/shield/837740773482299425?theme=blurple)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Tom-ne" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Tom-ne" height="150" alt="languages graph"  />
+</div>
 
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-ne&&theme=dracula)
+###
 
-<br />
-<br />
 
-[vscode]: https://code.visualstudio.com/
-[java]: https://www.java.com/en/
-[nodejs]: https://nodejs.org/en/
-[archlinux]: https://archlinux.org/
-[python]: https://www.python.org/
-[intelliJ]: https://www.jetbrains.com/idea/
-[ditto]: https://ditto-cp.sourceforge.io/
-[git]: https://git-scm.com/downloads 
-[alacritty]: https://github.com/alacritty/alacritty
+
+<img align="right" height="190" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"  />
+
+
+<p align="left">🌱 Languages that I use: Python, Java, Node Java<br><br>🧮 IDE: Vscode, IntelliJ IDEA<br><br>💻 Version control: Git<br><br>💿 Terminal and OS: Alacritty, Arch Linux<br><br>🔭 My portfolio website https://tom-ne.github.io/portfolio/</p>
+
+
+###
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+
+<div align="center">
+  <a href="http://discordapp.com/users/837740773482299425" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
