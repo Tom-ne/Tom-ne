@@ -23,7 +23,7 @@
 <img align="right" height="190" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"  />
 
 
-<p align="left">🌱 Languages that I use: Python, Java, Node, Java<br><br>🧮 IDE: Vscode, IntelliJ IDEA<br><br>💻 Version control: Git<br><br>💿 Terminal and OS: Alacritty, Arch Linux<br><br></p>
+<p align="left">🌱 Languages that I use: Python, Java, Node<br><br>🧮 IDE: Vscode, IntelliJ IDEA<br><br>💻 Version control: Git<br><br>💿 Terminal and OS: Alacritty, Arch Linux<br><br></p>
 
 
 ###
