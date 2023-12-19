@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Tom and I'm a high school developer, from Israel</p>
+<p align="left">My name is Tom and I'm a high school student, from Israel</p>
+<p align="left">I am a software subteam lead on a FRC team</p>
 
 ###
 
