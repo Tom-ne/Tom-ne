@@ -3,7 +3,6 @@
 ###
 
 <p align="left">My name is Tom and I'm a high school student, from Israel</p>
-<p align="left">I am a software subteam lead on a FRC team</p>
 
 ###
 
@@ -13,7 +12,7 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-<p align="left">🖥️️Programmer<br>🔥 High school student <br>🤖 Software lead of a FRC team<br>🎸 Electric Guitar Player</p>
+<p align="left">🖥️️Programmer<br>🔥 High school student <br>🎸 Electric Guitar Player</p>
 
 ###
 
@@ -43,8 +42,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
