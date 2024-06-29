@@ -9,7 +9,7 @@
 - 🌐 Knowledgeable in: Networking concepts
 
 ### Projects
-- 🤖 [Modify]([link](https://github.com/Tom-ne/Modify)): A mod manager for Minecraft (discontinued)
+- 🤖 [Modify](https://github.com/Tom-ne/Modify): A mod manager for Minecraft (discontinued)
 
 ### Contact Me
 - 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/tom-neumann-18876827a/)
