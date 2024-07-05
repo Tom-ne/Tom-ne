@@ -2,7 +2,8 @@
 
 ### About Me
 - 🎓 High school student, almost 17 years old
-- 👨‍💻 Former Software Lead for an FRC (FIRST Robotics Competition) team
+- 👨‍💻 Former Robot Software Lead for an FRC (FIRST Robotics Competition) team
+- 📖 Applications lead for an FRC team
 
 ### Skills
 - 💻 Proficient in: C, C++, C#, Java, Assembly, Python, Flutter
