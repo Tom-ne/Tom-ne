@@ -1,7 +1,7 @@
 # Hello, I'm Tom! 👋
 
 ### About Me
-- 🎓 High school student, almost 17 years old
+- 🎓 High school student, 17 years old
 - 👨‍💻 Former Robot Software Lead for an FRC (FIRST Robotics Competition) team
 - 📖 Applications lead and Strategy Lead for an FRC team
 
